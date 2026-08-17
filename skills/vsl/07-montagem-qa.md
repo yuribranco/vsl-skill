@@ -112,9 +112,17 @@ qualquer recapitulação ("como eu falei lá no começo") — em vídeo isso é 
 | Retenção até o pitch | 85-95% **dos que ainda estavam no min 1** | Um bloco do meio está perdendo gente — ache a queda no gráfico |
 | Conversão do front | 3,8-4% típico · 8% excepcional | Oferta, preço ou promessa desalinhada |
 
-**Atenção ao denominador:** play rate e retenção do 1º minuto são sobre o total de visitas; a
-retenção até o pitch é sobre quem sobreviveu ao 1º minuto. Comparar as duas na mesma base leva a
-conclusão errada sobre qual bloco está sangrando.
+**Atenção ao denominador — cada métrica tem a sua base:**
+
+| Métrica | Base |
+|---|---|
+| Play rate | quem deu play ÷ **visitas na página** |
+| Retenção no 1º min | quem chega ao min 1 ÷ **quem deu play** |
+| Retenção até o pitch | quem chega ao pitch ÷ **quem chegou ao min 1** |
+| Conversão do front | compras ÷ **visitas na página** |
+
+Na prática: 100 visitas → 55 plays (55%) → 36 no minuto 1 (65% dos plays) → 32 no pitch (90% de
+quem passou do minuto 1). Ler as três na mesma base leva a diagnosticar o bloco errado.
 
 Interprete sempre **na ordem**: play rate → retenção 1º min → retenção até o pitch → conversão.
 Otimizar a oferta enquanto a lead sangra é desperdício.
