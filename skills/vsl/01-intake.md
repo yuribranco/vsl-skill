@@ -147,7 +147,8 @@ Se não houver material: comece pelo Bloco 1.
    iniciais, cidade)? Precisa pedir autorização?
 5. Existe estudo, pesquisa ou dado público que sustente seu mecanismo? Qual, e onde está?
 
-> Se a resposta 4 for "ainda não tenho", registre e marque `[DEPOIMENTO]` nos pontos da VSL. Nunca
+> Se as respostas 3 e 4 forem "ainda não tenho" (sem depoimento gravado, ou sem autorização de
+> uso), registre e marque `[DEPOIMENTO]` nos pontos da VSL. Nunca
 > escreva um depoimento fictício, nem "de exemplo".
 
 ## Bloco 8 — Mercado `[OBRIGATÓRIO]`
@@ -196,7 +197,7 @@ Antes de ir para a Fase 2, produza este resumo e mostre pro humano:
 
 ```
 BRIEFING — completude
-✅ Blocos completos: 1, 2, 3, 5, 6, 9, 10
+✅ Blocos completos: 1, 2, 3, 4, 5, 6, 9, 10, 11
 ⚠️  LACUNAS que impactam a VSL:
    - [LACUNA 7.4] Sem autorização de uso dos casos → a VSL vai ficar com [DEPOIMENTO]
      em 3 pontos e a prova social do pitch fica fraca. Custo: conversão do pitch.

@@ -26,8 +26,8 @@ elaborado (estágio 4) ou identificação (5).
 **Profissional.** O comprador tem reputação em jogo. Hype destrói conversão. Autoridade,
 especificidade técnica e casos com números fazem o trabalho.
 
-**Volume.** Não force estrutura de ticket alto. VSL curta, oferta simples, foco em recorrência e
-comunidade. O jogo é escala, não margem.
+**Volume.** Não force estrutura de ticket alto. VSL curta (6-8 min, ver `02-diagnostico.md`),
+oferta simples, foco em recorrência e comunidade. O jogo é escala, não margem.
 
 ---
 

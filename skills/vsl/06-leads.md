@@ -1,6 +1,7 @@
 # Fase 4.3 — A LEAD (escrita por último)
 
-> A lead ocupa ~13% do tempo da VSL (2 minutos de 15) e carrega a maior parte da responsabilidade
+> A lead ocupa ~2 minutos de uma VSL de 16-20 (cerca de um décimo do tempo) e carrega a maior
+> parte da responsabilidade
 > pela conversão. É a última coisa a ser escrita — só depois de conhecer toda a oferta é que
 > aparecem as boas ideias de abertura.
 >
@@ -131,7 +132,7 @@ saem dos 7 conforme o diagnóstico. Cada um com:
 
 ---
 
-<texto completo, em linguagem falada, ~300-350 palavras>
+<texto completo, em linguagem falada, ~280-300 palavras (≈2 min a 145 ppm)>
 ```
 
 E, no `03-vsl-principal.md`, a lead default montada no topo — com nota dizendo qual é e por quê.

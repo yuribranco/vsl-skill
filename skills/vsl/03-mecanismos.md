@@ -42,6 +42,10 @@ mecanismo articulado, ele é o **mecanismo-mestre**. Extraia e cite com timestam
 Síntese sua **nunca substitui** o que a fonte disse. Sua proposta original entra no documento
 marcada `🆕 proposta nova (não veio da fonte)` — e o humano decide.
 
+Isso não tira a escolha do humano no GATE 2: o mecanismo da fonte entra como **mestre por
+padrão e como sua recomendação**, e o humano pode preferir outro — desde que a troca seja uma
+decisão dele, explícita, e não uma substituição silenciosa sua.
+
 > Isso não é burocracia. É o erro mais comum e mais caro: o agente encontra uma metáfora própria
 > mais elegante, elege como mestre e descarta silenciosamente o mecanismo que os sócios já tinham
 > alinhado na call. Ninguém percebe até a gravação.
@@ -129,7 +133,7 @@ Antes de recomendar, teste o par:
 - O S proposto **resolve exatamente** a causa que o P nomeou? (se o P diz "você mediu pela régua
   errada", o S tem que entregar uma régua nova — não "acompanhamento personalizado")
 - O par sobrevive à sofisticação diagnosticada na Fase 2?
-- O par cabe em ~5 minutos de fala somados?
+- O par cabe em ~7-9 minutos de fala somados (problema + solução)?
 - O par respeita o GUARDRAIL de compliance do Bloco 9?
 
 Recomende **um par**, com uma frase dizendo por que esse par e não os outros. Ofereça 1 ou 2

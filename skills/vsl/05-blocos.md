@@ -7,11 +7,15 @@
 ---
 
 > **Orçamento de tempo.** Fala natural roda a ~140-150 palavras por minuto. Os três blocos deste
-> arquivo somam ~10-12 minutos (≈1.500-1.800 palavras) e, com a lead de ~2 min, colocam o pitch
-> por volta do minuto 14. Se a sua soma deu 8, os blocos estão rasos — não acelere o pitch,
+> arquivo somam ~10-12 minutos (≈1.450-1.750 palavras) e, com a lead de ~2 min, entregam o pitch
+> na virada dos 12-14. Se a sua soma deu 8, os blocos estão rasos — não acelere o pitch,
 > aprofunde os blocos.
+>
+> **Os minutos abaixo são a linha de base; o nicho redistribui** (ver `08-nichos.md`). Em saúde o
+> mecanismo do problema é o bloco mais longo da VSL — puxe minutos da solução pra ele. O total
+> dos três é que precisa fechar, não cada um isolado.
 
-## Bloco: MECANISMO DA SOLUÇÃO (~4 min)
+## Bloco: MECANISMO DA SOLUÇÃO (~4-5 min)
 
 Estrutura em três movimentos:
 
@@ -87,8 +91,10 @@ credibilidade; drama genérico gasta.
   acreditado.
 - Nada de história inventada, composta ou "inspirada em casos reais". Se não veio do briefing,
   não vai pro roteiro.
-- Nomes de terceiros só com autorização registrada no Bloco 7. Sem autorização: iniciais, "uma
-  aluna minha de Campinas", ou `[CASO A CONFIRMAR]`.
+- **Nome e imagem de terceiro só com autorização registrada no Bloco 7.** Sem autorização, o caso
+  entra em forma não identificável ("uma aluna minha", sem nome, sem cidade pequena, sem detalhe
+  que permita reconhecer a pessoa) ou vira `[CASO A CONFIRMAR]`. Iniciais + cidade parecem
+  anônimas e não são: em nicho pequeno, identificam.
 
 ---
 

@@ -78,6 +78,10 @@ acredita mais", você está em 5.
 | 3-4 × 5 | Lead de identificação/história · prova social e demonstração substituem a promessa |
 | 4-5 × qualquer | VSL curta ou nem VSL — vá de página de oferta |
 
+**VSL curta** = mesma estrutura de 4 blocos comprimida em 6-8 min, com o pitch entrando por volta
+da metade. Os tempos por bloco do resto do repositório são calibrados pra VSL de 16-20 min —
+quando o diagnóstico pedir curta, reduza proporcionalmente e diga isso no cabeçalho do roteiro.
+
 ---
 
 ## Output da Fase 2 — `01-diagnostico.md`

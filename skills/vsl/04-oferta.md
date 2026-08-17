@@ -6,8 +6,8 @@
 >
 > Pré-requisito: `manifest.gate2_aprovado_em` preenchido. Verifique antes de escrever.
 
-O pitch começa por volta do **minuto 14** e pode se estender até os 20. Tudo depois do botão
-aparecer é lucro adicional.
+O pitch entra na virada dos **12-14 minutos** e leva mais 4 a 6 — VSL total de 16 a 20 min. Tudo
+depois do botão aparecer é lucro adicional.
 
 ---
 
@@ -56,15 +56,19 @@ Antes de revelar o preço, compare com a alternativa cara e real:
 > "Uma consultoria individual comigo sai R$ X por sessão. Um acompanhamento de 3 meses passa de
 > R$ Y. Eu poderia cobrar isso — e cobrei, durante anos."
 
-**8. Preço com contraste**
+**8. Preço com contraste** — `[BOTÃO APARECE AQUI]`
 > "Mas hoje não é nada disso. É R$ <preço>."
 
 Contraste é a única maneira de um número virar barato. Número solto é caro por definição.
 
+O botão surge **aqui**, no momento em que o preço é revelado — é o que o delay do player está
+esperando. Os CTAs seguintes apontam para um botão que já está na tela.
+
 **9. Bônus com cronômetro de 60 segundos**
 Um bônus de urgência real com contador visual na tela — tipicamente o ingresso de um workshop ao
-vivo. É uma das alavancas mais eficazes documentadas no formato: em funis testados, incluir esse
-bônus com cronômetro chegou a dobrar a conversão do pitch.
+vivo. É uma das alavancas mais eficazes do formato — em funis testados, chegou a dobrar a conversão
+do pitch. *(Faixa de calibração interna, sem fonte pública: use pra priorizar, nunca como claim na
+copy nem pro cliente.)*
 
 Requisito de honestidade: o bônus tem que existir e ser entregue. Cronômetro que zera e continua
 oferecendo destrói a confiança da esteira inteira.
@@ -97,7 +101,8 @@ Volte ao problema da lead e projete os dois futuros:
 > nos próximos 5 minutos, <ação>."
 
 **15. CTA final**
-Uma instrução, sem ambiguidade: "Clica no botão aqui embaixo agora." `[BOTÃO APARECE AQUI]`
+Uma instrução, sem ambiguidade: "Clica no botão aqui embaixo agora." `[CTA → aponta pro botão que
+já apareceu no passo 8]`
 
 ---
 

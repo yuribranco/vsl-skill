@@ -29,9 +29,12 @@ oferta → subir até a lead**.
 
 O nicho muda tom, tipo de prova, preço e compliance em **todas** as fases: `08-nichos.md`.
 
-**Nunca pule fase.** Se o usuário disser "já sei o mecanismo, escreve logo a VSL", rode a Fase 1
-enxuta e o GATE 2 em 5 minutos registrando o mecanismo que ele já tem — mas registre. O arquivo
-existir é o que permite auditar depois por que a VSL converteu ou não.
+**Nunca pule fase.** Se o usuário disser "já sei o mecanismo, escreve logo a VSL", o atalho é
+comprimir, não suprimir: Fase 1 enxuta (só os blocos obrigatórios), Fase 2 em uma tela (sua
+leitura de consciência/sofisticação + confirmação dele = GATE 1), e Fase 3 reduzida a registrar o
+mecanismo que ele já tem — sem gerar as 10 propostas, mas **com a confirmação explícita dele de
+qual é o mestre de cada lado** (GATE 2). Os dois gates acontecem em 5 minutos, e acontecem. O
+registro é o que permite auditar depois por que a VSL converteu ou não.
 
 ## Os dois GATES (invioláveis)
 
@@ -74,6 +77,17 @@ Copy de resposta direta que inventa é copy que gera reembolso, processo e ban d
 história que não estava no material · você está no bloco da oferta sem saber o preço · você está
 escrevendo a lead antes da oferta.
 
+**Os números desta skill não são copy.** Os benchmarks e percentuais citados nos arquivos de
+referência (play rate, retenção, conversão, efeito do cronômetro) são **faixas de calibração
+interna, sem fonte pública auditável** — servem pra você decidir o que otimizar, e só. Nunca os
+repita dentro da VSL, num anúncio, ou pro cliente como fato de mercado. A regra de não inventar
+número vale inclusive contra este repositório.
+
+**Duração canônica** (uma referência só, pra não conflitar): VSL de front-end tem **16 a 20
+minutos**; os quatro blocos antes do pitch somam **12 a 14 min**; o pitch entra nessa virada e
+dura 4 a 6 min. Tudo depois do botão aparecer é lucro. Quando o diagnóstico pedir VSL curta
+(consciência 4-5, nicho de volume), comprima proporcionalmente — a estrutura é a mesma.
+
 ## Estrutura de saída
 
 Crie no diretório do projeto (ou `vsl-<slug>/` se não houver um):
@@ -89,8 +103,10 @@ manifest.json             estado das fases e os dois gates
 ```
 
 **Onde criar:** se você já está no diretório do projeto/expert, escreva ali. Se não, crie
-`vsl-<slug-do-expert-ou-produto>/`. Se já existirem várias pastas `vsl-*`, **pergunte em qual
-trabalhar** — nunca escolha sozinho.
+`vsl-<slug-do-expert-ou-produto>/`. Se nem o expert nem o produto tiverem nome ainda (comum na
+Fase 0), use o tema: `vsl-incontinencia-pos-parto/`. O nome da pasta é descartável — **não a
+renomeie** quando o nome aparecer na Fase 1; renomear quebra caminho de arquivo por estética. Se
+já existirem várias pastas `vsl-*`, **pergunte em qual trabalhar** — nunca escolha sozinho.
 
 Crie o `manifest.json` logo na Fase 0 com os campos que já souber (o resto fica `null` e você
 completa ao fim da Fase 1). Atualize `fases` a cada transição:
@@ -124,7 +140,7 @@ confiança de um expert ocupado.
 | 2. Mecanismo da solução | 2. Mecanismo do problema |
 | 3. Mecanismo do problema | 3. História |
 | 4. História | 4. Mecanismo da solução |
-| 5. **Lead (5 variações)** | 5. Oferta (pitch, ~min 14) |
+| 5. **Lead (5 variações)** | 5. Oferta (pitch, entra na virada dos 12-14 min) |
 
 Escrever a oferta primeiro é o que faz a lead prometer exatamente o que a oferta entrega. Escrever
 a lead primeiro é o que faz a VSL prometer o que ela não cumpre.
@@ -142,5 +158,6 @@ a lead primeiro é o que faz a VSL prometer o que ela não cumpre.
 
 ## Quando NÃO usar
 
-Anúncio isolado, e-mail, página de captura, post — não têm 4 blocos nem pitch aos 14 minutos.
-Use uma skill de copy geral. Esta aqui é para **vídeo de vendas de 12–20 minutos**.
+Anúncio isolado, e-mail, página de captura, post — não têm os 4 blocos nem pitch. Use uma skill de
+copy geral. Esta aqui é para **vídeo de vendas**: 16-20 min no padrão, ou a versão curta de 6-8
+min quando o diagnóstico pedir (`02-diagnostico.md`).
