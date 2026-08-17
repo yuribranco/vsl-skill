@@ -81,6 +81,18 @@ Legendas: ⭐ = veio articulado da fonte · 🆕 = proposta nova sua.
 
 ### Como gerar os 5 da solução
 
+Ângulos que costumam render soluções realmente distintas — o mecanismo é a **variável que só o
+seu método controla**:
+
+1. **A ordem certa** — os mesmos elementos, na sequência que ninguém respeita
+2. **A variável ignorada** — o que todo mundo trata como detalhe e é a alavanca
+3. **A medição** — o método dá uma régua nova, que mostra resultado antes do resultado óbvio
+4. **A remoção da limitação antiga** — o que tornava inviável (tempo, agenda, custo, disciplina)
+   deixou de existir, e o mecanismo explica como
+5. **O diagnóstico antes da prescrição** — o método começa por descobrir como *essa pessoa*
+   funciona, e isso muda o que ela faz
+6. **A camada que ninguém entrega** — o mercado vende a parte visível; o método opera a invisível
+
 Cada um precisa responder "por que funciona" com **um dos três tipos de prova**:
 
 | Tipo de prova | Quando usar | Formato |
@@ -91,6 +103,15 @@ Cada um precisa responder "por que funciona" com **um dos três tipos de prova**
 
 Regra: **o tipo de prova segue o nicho, não a preferência do expert.** Prova social em nicho
 financeiro cheira a pirâmide; prova científica em nicho de hobby soa pedante.
+
+Se o expert **não tem** a prova que o nicho pede (não tem estudo, não tem caso autorizado), isso é
+um achado, não um detalhe: registre como risco na proposta, escolha o mecanismo que se sustenta
+com a prova que existe, e diga ao humano o que precisaria ser produzido para o mecanismo ideal
+ficar de pé.
+
+**Fronteira quê/por quê vs como:** se a frase responde *por que funciona*, é bloco de VSL. Se ela
+responde *o que fazer na segunda-feira de manhã*, é oferta. Na dúvida, pergunte: o espectador
+consegue executar sozinho depois de ouvir isso? Se sim, você entregou o como — corte.
 
 ### Nome próprio
 

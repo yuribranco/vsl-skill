@@ -118,7 +118,9 @@ sempre no fim.
 
 ## Saída desta etapa
 
-Um arquivo por lead em `03-leads/`, cada um com:
+Um arquivo por lead em `03-leads/`, nomeado `lead-NN-<angulo>.md` com o ângulo que você de fato
+escolheu (`lead-01-negativa.md`, `lead-02-contraintuitiva.md`…) — os 5 ângulos não são fixos,
+saem dos 7 conforme o diagnóstico. Cada um com:
 
 ```markdown
 # Lead 01 — Negativa

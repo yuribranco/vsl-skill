@@ -21,7 +21,7 @@ oferta → subir até a lead**.
 | # | Fase | Leia | Só termina quando |
 |---|---|---|---|
 | 0 | Ingestão do material que já existe | `01-intake.md` §0 | inventário feito, briefing pré-preenchido |
-| 1 | Entrevista completa com quem sabe | `01-intake.md` | `00-briefing.md` sem `[LACUNA]` obrigatória |
+| 1 | Entrevista completa com quem sabe | `01-intake.md` | `00-briefing.md` fechado — ou com as lacunas **declaradas e aceitas** pelo humano |
 | 2 | Diagnóstico de mercado (Schwartz) | `02-diagnostico.md` | 🚦 **GATE 1** — humano confirma |
 | 3 | Mecanismos: 5 do problema × 5 da solução | `03-mecanismos.md` | 🚦 **GATE 2** — humano escolhe 1+1 |
 | 4 | Escrita, de trás pra frente | `04-oferta.md` → `05-blocos.md` → `06-leads.md` | oferta + 3 blocos + 5 leads escritos |
@@ -43,9 +43,12 @@ espere o humano confirmar ou corrigir.
 vídeo inteiro. Apresente o documento 5×5, o humano escolhe **1 mecanismo-mestre do problema + 1 da
 solução**, e só então a Fase 4 começa.
 
-Registre os dois no `manifest.json` (`gate1_confirmado_em`, `gate2_aprovado_em`, `aprovado_por`,
-`escolha`). Antes de escrever qualquer linha da VSL, **leia o manifest e verifique**. Campo vazio =
-pare e volte pra fase que falta.
+Registre os dois no `manifest.json` (campos no schema abaixo). Antes de escrever qualquer linha da
+VSL, **leia o manifest e verifique**. Campo vazio = pare e volte pra fase que falta.
+
+**Gate reabre quando a base muda.** Se o briefing, a oferta ou o preço mudarem depois do GATE 2,
+zere `gate2_aprovado_em`, diga o que mudou e reapresente. Aprovação é sobre um estado específico
+dos fatos, não um carimbo permanente.
 
 ## Regra inviolável: nunca inventar
 
@@ -85,7 +88,12 @@ Crie no diretório do projeto (ou `vsl-<slug>/` se não houver um):
 manifest.json             estado das fases e os dois gates
 ```
 
-Crie o `manifest.json` na Fase 0, com esta forma exata, e atualize a cada fase:
+**Onde criar:** se você já está no diretório do projeto/expert, escreva ali. Se não, crie
+`vsl-<slug-do-expert-ou-produto>/`. Se já existirem várias pastas `vsl-*`, **pergunte em qual
+trabalhar** — nunca escolha sozinho.
+
+Crie o `manifest.json` logo na Fase 0 com os campos que já souber (o resto fica `null` e você
+completa ao fim da Fase 1). Atualize `fases` a cada transição:
 
 ```json
 {
@@ -127,7 +135,10 @@ a lead primeiro é o que faz a VSL prometer o que ela não cumpre.
   estiver instalada, use na Fase 2 e na revisão da lead. Se não estiver, `02-diagnostico.md` traz o
   essencial — esta skill é autossuficiente.
 - Revisão adversarial da Fase 3 e da lead: peça a um agente **diferente** do que escreveu
-  (maker ≠ checker). Quem escreveu o mecanismo é o pior juiz dele.
+  (maker ≠ checker). Quem escreveu o mecanismo é o pior juiz dele. Entregue ao checker o
+  diagnóstico + o documento 5×5 e peça um parecer no formato *mata / mantém com ressalva /
+  mantém* por proposta, com uma linha de justificativa. **Divergência entre maker e checker não
+  se resolve entre eles** — vai pro humano no GATE 2, com os dois pareceres lado a lado.
 
 ## Quando NÃO usar
 

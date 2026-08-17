@@ -50,4 +50,8 @@ estatística com fonte citada em vez de diagnóstico do espectador · relato de 
 promessa de resultado.
 
 Se o expert não souber responder o Bloco 9, **não invente a resposta** — registre `[LACUNA]` e
-avise que a VSL vai ser escrita no modo conservador até que alguém confirme o que é permitido.
+escreva no **modo conservador**, que significa exatamente isto: zero promessa de resultado
+("você vai emagrecer X kg" vira "o que o método faz"), zero diagnóstico do espectador em segunda
+pessoa (vira cena em terceira pessoa), zero antes-e-depois, zero número sem fonte citada, zero
+nome de terceiro. Avise por escrito que a VSL está nesse modo e o que pode ser liberado quando
+alguém confirmar as regras do nicho.

@@ -6,7 +6,12 @@
 
 ---
 
-## Bloco: MECANISMO DA SOLUÇÃO (~3 min)
+> **Orçamento de tempo.** Fala natural roda a ~140-150 palavras por minuto. Os três blocos deste
+> arquivo somam ~10-12 minutos (≈1.500-1.800 palavras) e, com a lead de ~2 min, colocam o pitch
+> por volta do minuto 14. Se a sua soma deu 8, os blocos estão rasos — não acelere o pitch,
+> aprofunde os blocos.
+
+## Bloco: MECANISMO DA SOLUÇÃO (~4 min)
 
 Estrutura em três movimentos:
 
@@ -31,7 +36,7 @@ Erros comuns:
 
 ---
 
-## Bloco: MECANISMO DO PROBLEMA (~2-3 min)
+## Bloco: MECANISMO DO PROBLEMA (~3-4 min)
 
 Estrutura em três movimentos:
 
@@ -55,7 +60,7 @@ isso, você entrega dor sem esperança e o espectador sai.
 
 ---
 
-## Bloco: HISTÓRIA (~2-3 min)
+## Bloco: HISTÓRIA (~3 min)
 
 A história é a **ponte emocional** entre o problema e a solução. Escolha o formato pelo que o
 briefing (Bloco 6) revelou:
@@ -92,7 +97,8 @@ credibilidade; drama genérico gasta.
 Puxe do Bloco 10 do briefing e aplique em todos os blocos:
 
 - Frases curtas alternadas com uma longa. Ritmo de fala, não de texto.
-- Segunda pessoa direta ("você"), sempre.
+- Segunda pessoa direta ("você") — **exceto** onde o GUARDRAIL de compliance exigir terceira
+  pessoa (ver `08-nichos.md`). Compliance vence estilo, sempre.
 - Vocabulário do público, não da profissão. Se o expert diz "resistência à insulina", a VSL diz o
   que isso significa na vida dela.
 - Sem listas numeradas faladas ("primeiro, segundo, terceiro") — ninguém fala assim.

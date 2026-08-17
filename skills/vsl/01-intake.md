@@ -41,6 +41,9 @@ Se não houver material: comece pelo Bloco 1.
   mudou, quanto, e *podemos citar publicamente?*. Sempre que aparecer um número, puxe a fonte.
 - **Grave depois de cada bloco** em `00-briefing.md`. Entrevista que só vive no chat morre no
   primeiro `/clear`.
+- **Fontes que se contradizem:** não escolha em silêncio. Registre as duas versões com a fonte de
+  cada uma e leve a divergência pra pessoa (*"na call você disse X, no questionário está Y — qual
+  vale?"*). Na dúvida, vale o que o expert disser **agora**; o material antigo fica como nota.
 
 ### Mapa: cada resposta tem destino
 

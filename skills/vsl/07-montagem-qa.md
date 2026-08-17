@@ -10,12 +10,16 @@ espectador vê:
 ```
 [GUARDRAIL — LEI]  (cabeçalho interno, não vai pro vídeo)
 
-LEAD (default: <qual e por quê>)          ~2 min
-MECANISMO DO PROBLEMA                     ~2-3 min
-HISTÓRIA                                  ~2-3 min
-MECANISMO DA SOLUÇÃO                      ~3 min
-OFERTA / PITCH                            ~4-6 min   ← começa ~min 14
+LEAD (default: <qual e por quê>)          ~2 min      (~300 palavras)
+MECANISMO DO PROBLEMA                     ~3-4 min    (~500 palavras)
+HISTÓRIA                                  ~3 min      (~430 palavras)
+MECANISMO DA SOLUÇÃO                      ~4 min      (~580 palavras)
+OFERTA / PITCH                            ~4-6 min    ← começa ~min 14
 ```
+
+Confira a soma: fala natural roda a ~140-150 palavras/minuto. Se os quatro primeiros blocos somam
+menos de ~1.900 palavras, o pitch vai cair antes do minuto 14 — e o problema é bloco raso, não
+pitch adiantado.
 
 Duração-alvo: **~15 minutos**, podendo esticar até 20. Depois do botão aparecer, tudo é lucro.
 
@@ -61,14 +65,15 @@ qualquer recapitulação ("como eu falei lá no começo") — em vídeo isso é 
 - [ ] Pitch começa por volta do minuto 14
 
 **Oferta**
-- [ ] Tríade comunicada (conhecimento / recomendação / acompanhamento)
+- [ ] Tríade comunicada (conhecimento / recomendação / acompanhamento) — camada que não existe é
+      sinalizada ao humano como fraqueza de oferta, nunca inventada
 - [ ] Módulos descritos por benefício, não por nome
 - [ ] Ancoragem antes do preço
-- [ ] Bônus com cronômetro de 60s
+- [ ] Bônus com cronômetro de 60s — **ou** registrado que não existe e por quê
 - [ ] Cada bônus com sua história de origem
 - [ ] Empilhamento express com valores
 - [ ] Garantia clara
-- [ ] Presente surpresa mencionado
+- [ ] Presente surpresa mencionado — **ou** registrado que não existe
 - [ ] Fecho emocional + CTA único
 
 **Integridade**
@@ -110,8 +115,11 @@ Otimizar a oferta enquanto a lead sangra é desperdício.
 
 - Rode **duas VSLs simultâneas**: controle (a melhor atual) + challenger.
 - A maioria das variações testadas deve ser **na lead** — é o maior ponto de alavanca.
-- Distribuição típica: **90% controle / 10% dividido entre as leads em teste** (3-5% cada).
-- **Mínimo de 500-1.000 visualizações únicas** antes de declarar vencedor. Abaixo disso é ruído.
+- Distribuição típica: **90% controle / 10% dividido entre as leads em teste** — o que dá 2 ou 3
+  challengers por rodada (3-5% cada). Não jogue as 5 leads na mesma rodada: cada uma ficaria com
+  volume insuficiente pra decidir qualquer coisa.
+- **Mínimo de 500-1.000 visualizações únicas por variante** antes de declarar vencedor. Abaixo
+  disso é ruído — diferença de 10% em 100 views não significa nada.
 - Challenger que vence vira o novo controle. Recomeça o ciclo.
 
 Registre em `04-qa.md`: o que está sendo testado, contra o quê, qual métrica decide e qual o

@@ -22,7 +22,10 @@ candidato em três eixos:
 | **Permanência** | Sente há anos ou é moda? | Desejo permanente sustenta funil perpétuo |
 | **Alcance** | Quantas pessoas do público compartilham? | Alcance define o teto de escala |
 
-Vence o de maior produto dos três — não o mais nobre nem o que o expert prefere.
+Pontue cada candidato de 1 a 5 nos três eixos e vença o de maior soma — não o mais nobre nem o
+que o expert prefere. **Empate:** ganha o de maior urgência (é o que faz comprar hoje). Se o
+público tiver dois sub-perfis com desejos diferentes, escolha o dominante para a lead e trate o
+outro como camada secundária dentro da VSL — nunca escreva uma lead para os dois.
 
 **Teste:** se o desejo que você escolheu pudesse ser satisfeito por um concorrente amanhã, o
 público compraria dele? Se sim, você achou o desejo certo (e o mecanismo é que vai te diferenciar).
