@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "yuri-vsl",
+  "description": "Skill de construção de VSL de resposta direta do Yuri Branco para Claude Code",
+  "owner": {
+    "name": "Yuri Branco"
+  },
+  "plugins": [
+    {
+      "name": "vsl",
+      "description": "Constrói uma VSL completa do zero — entrevista, diagnóstico de mercado, mecanismo do problema e da solução com gate humano, e o roteiro escrito na ordem inversa (oferta primeiro, lead por último).",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Yuri Branco"
+      }
+    }
+  ]
+}

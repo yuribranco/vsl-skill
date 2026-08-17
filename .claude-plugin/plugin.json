@@ -1,0 +1,12 @@
+{
+  "name": "vsl",
+  "description": "Constrói uma VSL (video sales letter) completa do zero — entrevista o expert, diagnostica o mercado, define o mecanismo do problema e o da solução com gate humano, e escreve o roteiro de trás pra frente: oferta primeiro, lead por último.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Yuri Branco"
+  },
+  "homepage": "https://github.com/yuribranco/vsl-skill",
+  "repository": "https://github.com/yuribranco/vsl-skill",
+  "license": "MIT",
+  "keywords": ["copywriting", "vsl", "video-sales-letter", "direct-response", "funil", "mecanismo", "resposta-direta", "marketing"]
+}
